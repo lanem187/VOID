@@ -29,15 +29,16 @@ It is a single `index.html` file. That is the entire application.
 
 | Feature | Signal | WhatsApp | Telegram | ◌ VOID |
 |---------|:------:|:--------:|:--------:|:------:|
-| Phone number required | 😒 Uses | 😒 Uses | 😒 Uses | 😄 Doesn't Use |
-| Central server | 😒 Uses | 😒 Uses | 😒 Uses | 😄 Doesn't Use |
-| Metadata exposure | 😒 Uses | 😒 Uses | 😒 Uses | 😄 Doesn't Use |
-| Relay for all messages | 😒 Uses | 😒 Uses | 😒 Uses | 😄 Doesn't Use |
-| Panic wipe | 😒 Uses | 😒 Uses | 😒 Uses | 😄 Doesn't Use |
-| Decoy account | 😒 Uses | 😒 Uses | 😒 Uses | 😄 Doesn't Use |
-| Tor blocked | 😒 Uses | 😒 Uses | 😒 Uses | 😄 Doesn't Use |
-| Closed source | 😒 Uses | 😒 Uses | 😒 Uses | 😄 Doesn't Use |
-| Monthly cost | 😄 Free | 😄 Free | 😄 Free | 😄 Free |
+| Phone number required | 😒 | 😒 | 😒  l
+| 😄  |
+| Central server | 😒  | 😒  | 😒  | 😄  |
+| Metadata exposure | 😒 | 😒  | 😒 | 😄 |
+| Relay for all messages | 😒 | 😒 | 😒 | 😄 |
+| Panic wipe | 😒 | 😒  | 😒 | 😄 |
+| Decoy account | 😒  | 😒 | 😒 | 😄 |
+| Tor blocked | 😒 | 😒 | 😒 | 😄 |
+| Closed source | 😒 | 😒 | 😒  | 😄 |
+| Monthly cost | 😄  | 😄  | 😄  | 😄 Free |
 
 > **VOID is the only messenger with all of these 😄. Signal comes closest on encryption — but Signal still requires your phone number, knows who you talk to, and when.**
 
