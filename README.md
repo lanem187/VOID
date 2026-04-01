@@ -19,7 +19,7 @@
 
 ## What is VOID?
 
-VOID is a **serverless, zero-knowledge, end-to-end encrypted** messaging platform that runs entirely in your browser — no install, no account, no phone number. Messages travel directly **browser-to-browser via WebRTC**, with Nostr relays as an encrypted async fallback. The relay sees only AES-256-GCM ciphertext. Nobody — not even us — can read your messages.
+VOID is a **serverless, zero-knowledge, end-to-end encrypted** messaging platform that runs entirely in your browser — no install, no account, no phone number. Messages travel directly **browser-to-browser via WebRTC**, with Nostr relays as an encrypted async fallback. The relay sees only AES-256-GCM ciphertext. Nobody — not even us or VOID — can read your messages.
 
 It is a single `index.html` file. That is the entire application.
 
